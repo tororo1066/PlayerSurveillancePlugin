@@ -1,0 +1,10 @@
+name: PlayerSurveillancePlugin
+version: @version@
+main: playersurveillanceplugin.playersurveillanceplugin.PSP
+api-version: 1.16
+commands:
+  psp:
+
+permissions:
+  psp:
+    default: op
